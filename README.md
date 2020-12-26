@@ -18,4 +18,31 @@ Script takes two parameters - name of the process to react to and time interval 
 
 Every X seconds script pulls a list of running processes and checks if there is any with name provided by user. It also checks of devices are enabled.
 
-// tbc
+Decision to enable or disable a device is based on the following logic:
+<table style="text-align:center;">
+	<tr>
+		<th>Is process running</th>
+		<th>Are devices enabled</th>
+		<th>Action</th>
+	</tr>
+	<tr>
+		<td>false</td>
+		<td>false</td>
+		<td style="color:green;">enable</td>
+	</tr>
+	<tr>
+		<td>false</td>
+		<td>true</td>
+		<td>none</td>
+	</tr>
+	<tr>
+		<td>true</td>
+		<td>false</td>
+		<td>none</td>
+	</tr>
+	<tr>
+		<td>true</td>
+		<td>true</td>
+		<td style="color:red;">disable</td>
+	</tr>
+</table>
