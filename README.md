@@ -54,7 +54,7 @@ if($isRunning -eq $areDevicesEnabled) {
 
 # How to use
 
-1. Download script [here]()
+1. Download script [here](https://github.com/MadTiger2409/Auto-Hid-Switch/releases)
 2. Run script from PowerShell CLI (as administrator). While running the script, you need to pass parameters like in example below:
 
 ```powershell
