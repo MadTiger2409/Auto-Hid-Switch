@@ -51,3 +51,13 @@ if($isRunning -eq $areDevicesEnabled) {
 	switchDevicesStatus -activateDevices $param
 }
 ```
+
+# How to use
+
+1. Download script [here]()
+2. Run script from PowerShell CLI (as administrator). While running the script, you need to pass parameters like in example below:
+
+```powershell
+.\AutoHidSwitch.ps1 -processName firefox -timeStamp 5 
+```
+3. Keep PowerShell CLI open (you can minimize it) as long as you need to.
