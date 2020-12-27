@@ -72,19 +72,19 @@ Here you have a list of devices tested with this script, as well as operating sy
 		<th>Windows 10 64-bit</th>
 	</tr>
 	<tr>
-		<td>HARPOON RGB PRO</td>
+		<td>Corsair HARPOON RGB PRO</td>
 		<td>:white_check_mark:</td>
 	</tr>
 	<tr>
-		<td>M65 RGB ELITE</td>
+		<td>Corsair M65 RGB ELITE</td>
 		<td>:white_check_mark:</td>
 	</tr>
 	<tr>
-		<td>K70 RGB MK.2 Cherry MX Silent</td>
+		<td>Corsair K70 RGB MK.2 Cherry MX Silent</td>
 		<td>:white_check_mark:</td>
 	</tr>
 	<tr>
-		<td>VOID RGB ELITE Wireless</td>
+		<td>Corsair VOID RGB ELITE Wireless</td>
 		<td>:white_check_mark:</td>
 	</tr>
 </table>
