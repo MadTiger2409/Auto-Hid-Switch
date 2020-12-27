@@ -61,3 +61,32 @@ if($isRunning -eq $areDevicesEnabled) {
 .\AutoHidSwitch.ps1 -processName firefox -timeStamp 5 
 ```
 3. Keep PowerShell CLI open (you can minimize it) as long as you need to.
+
+# Tested devices
+
+Here you have a list of devices tested with this script, as well as operating systems used in testing.
+
+<table>
+	<tr>
+		<th>Device</th>
+		<th>Windows 10 64-bit</th>
+	</tr>
+	<tr>
+		<td>HARPOON RGB PRO</td>
+		<td>:white_check_mark:</td>
+	</tr>
+	<tr>
+		<td>M65 RGB ELITE</td>
+		<td>:white_check_mark:</td>
+	</tr>
+	<tr>
+		<td>K70 RGB MK.2 Cherry MX Silent</td>
+		<td>:white_check_mark:</td>
+	</tr>
+	<tr>
+		<td>VOID RGB ELITE Wireless</td>
+		<td>:white_check_mark:</td>
+	</tr>
+</table>
+
+If you have a device tested with this script that isn't on a list, please let me know (you can create an issue in this repo) so I will add this.
