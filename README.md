@@ -68,24 +68,36 @@ Here you have a list of devices tested with this script, as well as operating sy
 
 <table>
 	<tr>
-		<th>Device</th>
-		<th>Windows 10 64-bit</th>
+		<td> :heavy_exclamation_mark: </td>
+		<td> This solution doesn't work on Windows 8.1 or older because it uses PowerShell's PnpDevice which is available on Windows 10 (and propably will be on Windows 11). </td>
+		<td> :heavy_exclamation_mark: </td>
+</table>
+
+<table>
+	<tr>
+		<th> Device </th>
+		<th> Windows 10 64-bit </th>
+		<th> Windows 11 64-bit </th>
 	</tr>
 	<tr>
-		<td>Corsair HARPOON RGB PRO</td>
-		<td>:white_check_mark:</td>
+		<td> Corsair HARPOON RGB PRO </td>
+		<td> :white_check_mark: </td>
+		<td> :grey_question: </td>
 	</tr>
 	<tr>
-		<td>Corsair M65 RGB ELITE</td>
-		<td>:white_check_mark:</td>
+		<td> Corsair M65 RGB ELITE </td>
+		<td> :white_check_mark: </td>
+		<td> :grey_question: </td>
 	</tr>
 	<tr>
-		<td>Corsair K70 RGB MK.2 Cherry MX Silent</td>
-		<td>:white_check_mark:</td>
+		<td> Corsair K70 RGB MK.2 Cherry MX Silent </td>
+		<td> :white_check_mark: </td>
+		<td> :grey_question: </td>
 	</tr>
 	<tr>
-		<td>Corsair VOID RGB ELITE Wireless</td>
-		<td>:white_check_mark:</td>
+		<td> Corsair VOID RGB ELITE Wireless </td>
+		<td> :white_check_mark: </td>
+		<td> :grey_question: </td>
 	</tr>
 </table>
 
