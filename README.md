@@ -3,7 +3,7 @@ This is an automated version of [this script](https://github.com/MadTiger2409/HI
 
 Some old games (and other apps) may not work properly when HID devices are enabled - this is where this script do it's part.
 
-# How it works
+## How it works
 ### In simple words
 
 Start this script and pass two parameters - name of the process you want to react to and time interval between checks (in seconds).
@@ -52,7 +52,7 @@ if($isRunning -eq $areDevicesEnabled) {
 }
 ```
 
-# How to use
+## How to use
 
 1. Download script [here](https://github.com/MadTiger2409/Auto-Hid-Switch/releases)
 2. Run script from PowerShell CLI (as administrator). While running the script, you need to pass parameters like in example below:
@@ -62,7 +62,7 @@ if($isRunning -eq $areDevicesEnabled) {
 ```
 3. Keep PowerShell CLI open (you can minimize it) as long as you need to.
 
-# Tested devices
+## Tested devices
 
 Here you have a list of devices tested with this script, as well as operating systems used in testing.
 
@@ -78,32 +78,48 @@ Here you have a list of devices tested with this script, as well as operating sy
 		<th> Device </th>
 		<th> Windows 10 64-bit </th>
 		<th> Windows 11 64-bit </th>
-		<th> Tested by </th>
 	</tr>
 	<tr>
 		<td> Corsair HARPOON RGB PRO </td>
 		<td> :white_check_mark: </td>
 		<td> :grey_question: </td>
-		<td> [MadTiger2409](https://github.com/MadTiger2409) </td>
 	</tr>
 	<tr>
 		<td> Corsair M65 RGB ELITE </td>
 		<td> :white_check_mark: </td>
 		<td> :grey_question: </td>
-		<td> [MadTiger2409](https://github.com/MadTiger2409) </td>
 	</tr>
 	<tr>
 		<td> Corsair K70 RGB MK.2 Cherry MX Silent </td>
 		<td> :white_check_mark: </td>
 		<td> :grey_question: </td>
-		<td> [MadTiger2409](https://github.com/MadTiger2409) </td>
 	</tr>
 	<tr>
 		<td> Corsair VOID RGB ELITE Wireless </td>
 		<td> :white_check_mark: </td>
 		<td> :grey_question: </td>
-		<td> [MadTiger2409](https://github.com/MadTiger2409) </td>
+	</tr>
+	<tr>
+		<td> Corsair K95 RGB Platinum Cherry MX Speed </td>
+		<td> :white_check_mark: </td>
+		<td> :grey_question: </td>
+	</tr>
+	<tr>
+		<td> Logitech G502 HERO </td>
+		<td> :white_check_mark: </td>
+		<td> :grey_question: </td>
+	</tr>
+	<tr>
+		<td> Logitech G933 ARTEMIS SPECTRUM </td>
+		<td> :white_check_mark: </td>
+		<td> :grey_question: </td>
 	</tr>
 </table>
 
 If you have a device tested with this script that isn't on a list, please let me know (you can create an issue in this repo) so I will add this.
+
+## Tested by
+
+People that tested this solution on their devices:
+- [MadTiger2409](https://github.com/MadTiger2409)
+- [BluDragyn](https://github.com/BluDragyn)
