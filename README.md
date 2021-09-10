@@ -78,26 +78,31 @@ Here you have a list of devices tested with this script, as well as operating sy
 		<th> Device </th>
 		<th> Windows 10 64-bit </th>
 		<th> Windows 11 64-bit </th>
+		<th> Tested by </th>
 	</tr>
 	<tr>
 		<td> Corsair HARPOON RGB PRO </td>
 		<td> :white_check_mark: </td>
 		<td> :grey_question: </td>
+		<td> [MadTiger2409](https://github.com/MadTiger2409) </td>
 	</tr>
 	<tr>
 		<td> Corsair M65 RGB ELITE </td>
 		<td> :white_check_mark: </td>
 		<td> :grey_question: </td>
+		<td> [MadTiger2409](https://github.com/MadTiger2409) </td>
 	</tr>
 	<tr>
 		<td> Corsair K70 RGB MK.2 Cherry MX Silent </td>
 		<td> :white_check_mark: </td>
 		<td> :grey_question: </td>
+		<td> [MadTiger2409](https://github.com/MadTiger2409) </td>
 	</tr>
 	<tr>
 		<td> Corsair VOID RGB ELITE Wireless </td>
 		<td> :white_check_mark: </td>
 		<td> :grey_question: </td>
+		<td> [MadTiger2409](https://github.com/MadTiger2409) </td>
 	</tr>
 </table>
 
